@@ -21,6 +21,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffb6c1?style=flat&logo=javascript&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-ffb6c1?style=flat&logo=java&logoColor=white)
 
+## 💖 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarakhan7&layout=compact&title_color=FB6F92&text_color=FF8FAB&bg_color=FFE5EC&border_color=FFC2D1&hide_border=false)
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarakhan7&show_icons=true&title_color=FB6F92&text_color=FF8FAB&icon_color=FFB3C6&bg_color=FFE5EC&border_color=FFC2D1&hide_border=false)
+
 **Frameworks & Tools**  
 ![React](https://img.shields.io/badge/-React-ffc2d1?style=flat&logo=react)  
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-ffc2d1?style=flat&logo=tailwindcss)  
