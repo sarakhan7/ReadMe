@@ -1,6 +1,6 @@
 # 🌟 Hi there, I’m Sara Khan!
 
-👩‍💻 Computer Science @ WGU | Junior Developer @ WebSurfing  
+👩‍💻 Computer Science @ WGU | Junior Developer @ WebSurfing Studios | SWE intern @ CacheAI
 🌸 Currently building cute, functional, AI-powered things with way too much pastel pink.  
 ♟️ Passionate about solving real-world problems through tech
 
